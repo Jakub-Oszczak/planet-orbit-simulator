@@ -1,7 +1,3 @@
-from ast import ExtSlice
-from re import S
-from time import sleep
-from turtle import distance, up
 import pygame as pg
 from math import *
 
